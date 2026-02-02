@@ -1,0 +1,7 @@
+{
+  "name": "YapAI - The Ultimate Yap Generator",
+  "description": "Generate professional-grade yapping, rants, and monologues in various styles using Gemini AI. The premier destination for digital fluency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
